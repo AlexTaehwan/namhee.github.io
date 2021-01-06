@@ -43,4 +43,51 @@ EMDR 치료에 대한 최근 연구결과에 대한 더 많은 정보는 아래�
 <참고문헌> 
 
 _김남희. 정신심리총서. 나를 괴롭히는 기억으로부터의 자유: 안구운동 민감소실 및 재처리 요법. 근거기반정신심리치료의 이해와 실제. Vol. 2권. 2019: 대한정서인지행동의학회._
+
 _Shapiro, F. Eye movement desensitization and reprocessing (EMDR) therapy: Basic principles, protocols, and procedures. Guilford Publications, 2017_
+
+### 복합 트라우마의 치료 
+
+해리증상을 흔히 동반하는 복합 트라우마의 치료는 해리된 인격의 파트들과 자기감(sense of self)과 작업하는 면에서, 트라우마 기억이 나타나거나 회피 될 때 내담자의 내면 시스템과 파트 간의 관계의 역동을 이해하며 접근해야 하는 면에서, 일반적인 정신치료를 넘어선 특별한 이해와 작업을 필요로 합니다. 
+
+앞서 기술한 치료와 함께, 복합 트라우마의 치료는 내담자 내면 시스템의 다양한 파트 간의 갈등을 줄이고 내적 협력을 증가시키면서 내담자가 건강한 전체로서의 자기(Healthy Individual Self)를 발달시키도록 돕는 개입이 추가로 필요합니다.
+
+또한 트라우마 기억에 대한 개입은 감당할 수 있을 정도로 조금씩 다루면서(titrate) 점차적으로 노출되게 접근하는 것이 중요하며, 내담자가 내성의 영역(window of tolerance)을 넘어 압도되어 해리가 심해지거나 증상이 악화되지 않도록 해야 합니다.
+
+주요 치료 기법으로는 파트를 구별하고 각 파트의 기능과 욕구를 이해하고 해결하며 파트들의 공의식(co-consciousness)를 높이며 적응적 협력을 돕는 자아상태치료(Ego State Therapy, EST)와 인격의 구조적 해리이론(Theory of the Structural Dissociation of the Personality, TSDP), 해리성 공포증을 다루고 트라우마 기억을 점진적으로 처리해 나가며 통합시키는 EMDR 치료의 변형된 접근, 치료과정 중의 신체감각이나 움직임 등의 소매틱 경험을 인식하고 이를 자원 및 개입으로 사용하는 신체기반치료(Somatic Therapy)를 포함합니다.
+
+대표적인 파트 작업 심리치료로 다음의 두 치료를 소개합니다. 
+
+### 1. 자아상태치료 (Ego State Therapy, EST) 
+
+자아상태치료는 John G. Watkins 교수와 그의 아내이자 정신치료자인 Helen H. Watkins 부부가 개발한 치료로, 개인의 인격이 다양한 파트들인 자아상태들(ego states)로 구성되며, 각 자아상태는 외부세계로부터의 인상(impression)에 대한 반응이 반복되면서 공통된 원칙으로 엮인 행동과 경험의 조직화된 신경계로서 정의합니다. 정상적인 자아상태는 서로 협력하여 전체로서의 개인이 상황에 따라 가장 잘 대처하고 기능하도록 돕습니다. 그러나 트라우마의 영향으로 자아상태들이 해리되게 되고 해리된 자아상태 간에는 협력이 어려워지고 내적 갈등이 심해지며 다양한 문제를 갖게 될 수 있습니다.
+
+자아상태치료는 최면이나 비-최면 기법을 사용하여 내담자가 내면의 다양한 자아상태와 자아상태 시스템을 더 잘 인식하고 이해하며, 자아상태 간의 해리 장벽을 감소시키며, 내적 의사소통을 향상시켜 새로운 연결을 발달시키는 치료법입니다. 이 과정은 자아상태 간의 내적 갈등을 인식하고 해결하는 새로운 기술을 배우고 실천하면서 트라우마 영향을 해결하고 벗어나서 내담자가 일상생활에서 더 적응적으로 기능할 수 있게 돕습니다.
+
+<참고문헌>
+
+_김남희 등. 심리치료 가이드라인. 스마일센터 범죄피해자 심리적 후유증에 대한 표준 평가 프로토콜 및 치료 가이드라인 개발 연구. 법무부, 2020_
+
+_Forgash, C. E., & Copeley, M. E. Healing the heart of trauma and dissociation with EMDR and ego state therapy. Springer Publishing Co, 2008_
+
+_Barabasz, A. Evidence based abreactive ego state therapy for PTSD. American Journal of Clinical Hypnosis. 2013;56(1): 54-65._
+
+_Watkins, J. G., & Watkins, H. H. Ego states: Theory and therapy. New York: WW Norton, 1997_
+
+### 2. 인격의 구조적 해리이론 (Theory of the Structural Dissociation of the Personality, TSDP)
+
+트라우마 정신치료자인 Onno van der Hart 교수 등이 Pierre Janet의 전통적인 정신치료의 해리 이론에 현대의 정신외상학과 신경생물학을 통합한 치료기법으로, 해리를 모든 외상후 장애 스펙트럼의 기본 기전으로 이해합니다. 
+
+트라우마의 영향으로 인격이 2개 이상의 하위체계나 해리된 파트로 나뉘어지며, 각 파트들은 일상생활과 관련된 행동체계(apparently normal parts of personality, ANP)와 방어관련 행동체계(emotional parts of personality, EP)의 서로 다른 행동체계들로 매개된다고 봅니다. EP는 트라우마를 지속적으로 재경험하며 과거 기억에 머물면서 방어 반응을 지속하는 반면, ANP는 EP를 자아-이질적(ego-dystonic)으로 밀어내며 트라우마 기억과 내면의 경험을 회피하며 정상적으로 보이려고 애쓰며 멍 해지거나 기억 상실의 음성 증상을 보이기도 합니다.
+
+구조적 해리이론 치료는 안정화, 트라우마 기억 처리, 재통합의 3단계의 단계-지향적 접근을 기반으로, 각 단계마다 다양한 내면의 해리성 공포증(dissociative phobias)를 처리하며 파트 간의 갈등을 해결하고 현재에 대한 인식(realization)을 포함한 인격의 통합으로 이끕니다. 이를 통해 개인의 정신적인 기능과 효율성을 높이며 적응적으로 기능하며 원하는 삶을 살아갈 수 있게 돕습니다.
+
+<참고문헌>
+
+_김남희 등. 심리치료 가이드라인. 스마일센터 범죄피해자 심리적 후유증에 대한 표준 평가 프로토콜 및 치료 가이드라인 개발 연구. 법무부, 2020_
+
+_Steele, K., Boon, S., & van der Hart, O. Treating Trauma-Related Dissociation: A Practical, Integrative Approach (Norton Series on Interpersonal Neurobiology). WW Norton & Company, 2016_
+
+_Van der Hart, O., Nijenhuis, E. R., & Steele, K. The haunted self: Structural dissociation and the treatment of chronic traumatization. WW Norton & Company., 2006_
+
+
