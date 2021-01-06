@@ -20,10 +20,6 @@ redirect_from:
 안정화 기법은 트라우마 경험 후 생기는 조절하기 어려운 여러 불편한 사고, 감정, 감각 등이 나타날 때 스스로 몸과 마음을 진정시키는 방법들로써, 복식호흡, 호흡 마음챙김명상, 그라운딩, 안전/고요지대, 컨테이너, 광선기법 등이 있습니다.
 또한 자원 개발과 강화 기술을 통해 내담자가 자신의 긍정적인 힘과 자원을 파악하고 키울 수 있게 돕습니다. 
 
-* 참고문헌
-
-_김남희. 사고 생존자를 위한 개인재난 심리개입 프로토콜. 2019, 한국트라우마스트레스학회: 서울. (보건복지부 정신건강기술개발사업단 지원 연구)._
-
 ### 안구운동 민감소실 및 재처리 요법 (Eye Movement Desensitization and Reprocessing, EMDR)
 
 EMDR 치료는 1987년 임상심리학자 Francine Shapiro 박사가 발견해 발전해온 심리치료로, 30여년이 지난 현재 30개 이상의 무작위 대조 연구 결과 등을 통해 외상후 스트레스 장애(PTSD)의 근거 기반 효과적인 심리치료로 잘 알려져 있습니다. 현재는 과거의 트라우마나 부정적 경험과 관련된 기억을 처리하며 치료 적용범위를 공포증, 공황장애, 범불안장애, 수행불안, 우울증, 애착장애, 만성적 애도반응, 만성통증, 섭식장애, 분노조절장애 및 복합 트라우마와 해리장애까지 확장하여 발전된 심리치료입니다.
@@ -39,12 +35,6 @@ EMDR 치료의 표준 프로토콜은 총 8단계로 구성되며, 1단계 과�
 미정신의학회는 효과적인 트라우마 치료로 EMDR 치료를 추천하였으며, 미보훈처와 국방부도 EMDR 치료를 극심한 트라우마에 유의한 효과를 보이는 A급 치료로 분류하였습니다. 영국의 임상지침을 제시하는 국립임상우수성협회 (NICE)에서도 외상중심-인지행동치료 (Trauma Focused-Cognitive Behavioral Therapy, TF-CBT)와 EMDR 치료가 성인 PTSD의 경험적으로 증명된 최고의 치료로 언급하였습니다. 국제보건기구(WHO)에서는 PTSD 아동청소년과 성인 모두에서 TF-CBT와 EMDR 치료를 효과적인 치료로 추천하였고, 두 치료 모두 주관적 불편감을 감소시키며 트라우마 사건에 대한 적응적 인지를 강화시키는 목적은 비슷하나, EMDR 치료는 TF-CBT와 다르게, 1) 사건에 대한 자세한 묘사나 2) 인지에 대한 직접적 개입, 3) 지속 노출, 4) 과제가 포함되지 않는 장점이 있다고 했습니다.
 
 EMDR 치료에 대한 최근 연구결과에 대한 더 많은 정보는 아래의 참고문헌과 emdr.com (EMDR Institute)을 참고하실 수 있습니다.
-
-* 참고문헌
-
-_김남희. 정신심리총서. 나를 괴롭히는 기억으로부터의 자유: 안구운동 민감소실 및 재처리 요법. 근거기반정신심리치료의 이해와 실제. Vol. 2권. 2019: 대한정서인지행동의학회._
-
-_Shapiro, F. Eye movement desensitization and reprocessing (EMDR) therapy: Basic principles, protocols, and procedures. Guilford Publications, 2017_
 
 ### 복합 트라우마의 치료 
 
@@ -64,16 +54,6 @@ _Shapiro, F. Eye movement desensitization and reprocessing (EMDR) therapy: Basic
 
 자아상태치료는 최면이나 비-최면 기법을 사용하여 내담자가 내면의 다양한 자아상태와 자아상태 시스템을 더 잘 인식하고 이해하며, 자아상태 간의 해리 장벽을 감소시키며, 내적 의사소통을 향상시켜 새로운 연결을 발달시키는 치료법입니다. 이 과정은 자아상태 간의 내적 갈등을 인식하고 해결하는 새로운 기술을 배우고 실천하면서 트라우마 영향을 해결하고 벗어나서 내담자가 일상생활에서 더 적응적으로 기능할 수 있게 돕습니다.
 
-* 참고문헌
-
-_김남희 등. 심리치료 가이드라인. 스마일센터 범죄피해자 심리적 후유증에 대한 표준 평가 프로토콜 및 치료 가이드라인 개발 연구. 법무부, 2020_
-
-_Forgash, C. E., & Copeley, M. E. Healing the heart of trauma and dissociation with EMDR and ego state therapy. Springer Publishing Co, 2008_
-
-_Barabasz, A. Evidence based abreactive ego state therapy for PTSD. American Journal of Clinical Hypnosis. 2013;56(1): 54-65._
-
-_Watkins, J. G., & Watkins, H. H. Ego states: Theory and therapy. New York: WW Norton, 1997_
-
 ### 2. 인격의 구조적 해리이론 (Theory of the Structural Dissociation of the Personality, TSDP)
 
 트라우마 정신치료자인 Onno van der Hart 교수 등이 Pierre Janet의 전통적인 정신치료의 해리 이론에 현대의 정신외상학과 신경생물학을 통합한 치료기법으로, 해리를 모든 외상후 장애 스펙트럼의 기본 기전으로 이해합니다. 
@@ -84,10 +64,22 @@ _Watkins, J. G., & Watkins, H. H. Ego states: Theory and therapy. New York: WW N
 
 * 참고문헌
 
+_김남희. 사고 생존자를 위한 개인재난 심리개입 프로토콜. 2019, 한국트라우마스트레스학회: 서울. (보건복지부 정신건강기술개발사업단 지원 연구)._
+
+_김남희. 정신심리총서. 나를 괴롭히는 기억으로부터의 자유: 안구운동 민감소실 및 재처리 요법. 근거기반정신심리치료의 이해와 실제. Vol. 2권. 2019: 대한정서인지행동의학회._
+
+_Shapiro, F. Eye movement desensitization and reprocessing (EMDR) therapy: Basic principles, protocols, and procedures. Guilford Publications, 2017_
+
+_김남희 등. 심리치료 가이드라인. 스마일센터 범죄피해자 심리적 후유증에 대한 표준 평가 프로토콜 및 치료 가이드라인 개발 연구. 법무부, 2020_
+
+_Forgash, C. E., & Copeley, M. E. Healing the heart of trauma and dissociation with EMDR and ego state therapy. Springer Publishing Co, 2008_
+
+_Barabasz, A. Evidence based abreactive ego state therapy for PTSD. American Journal of Clinical Hypnosis. 2013;56(1): 54-65._
+
+_Watkins, J. G., & Watkins, H. H. Ego states: Theory and therapy. New York: WW Norton, 1997_
+
 _김남희 등. 심리치료 가이드라인. 스마일센터 범죄피해자 심리적 후유증에 대한 표준 평가 프로토콜 및 치료 가이드라인 개발 연구. 법무부, 2020_
 
 _Steele, K., Boon, S., & van der Hart, O. Treating Trauma-Related Dissociation: A Practical, Integrative Approach (Norton Series on Interpersonal Neurobiology). WW Norton & Company, 2016_
 
 _Van der Hart, O., Nijenhuis, E. R., & Steele, K. The haunted self: Structural dissociation and the treatment of chronic traumatization. WW Norton & Company., 2006_
-
-
