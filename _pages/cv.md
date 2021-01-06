@@ -25,7 +25,7 @@ redirect_from:
 
 
 * 전 아주대학교 의과대학 정신건강의학과 조교수
-* 뉴욕 Memorial Sloan-Kettering Cancer Center 정신종양학, 통합의학 연수
+* 전 뉴욕 Memorial Sloan-Kettering Cancer Center 정신종양학, 통합의학 연수
 * 전 국립정신건강센터 4급 기술서기관
 * 전 서울특별시은평병원 진료과장, 교육연구부장 
 * 전 한국스트레스트라우마학회 이사
