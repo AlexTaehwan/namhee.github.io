@@ -86,7 +86,7 @@ author:
   location         : "Suwon, South Korea"
   employer         : "EMDR 트라우마치료교육센터"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : https://scholar.google.co.kr/citations?hl=ko&user=z5PU_c4AAAAJ&view_op=list_works&sortby=pubdate
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
