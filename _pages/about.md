@@ -6,7 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-image: /images/flower.png
+img: flower.png
 ---
 
 ### 안녕하세요?
