@@ -9,9 +9,14 @@ header:
   overlay_image: paper3.jpg
 ---
 
-<details><summary>### CLICK ME</summary>
+<details>
+<summary>
+# CLICK ME
+</summary>
 <p>
+'''
 yes, even hidden code blocks!
+'''
 </p>
 </details>
 
