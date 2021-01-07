@@ -27,7 +27,7 @@ header:
 
 ### 2020 경기남부경찰청 피해자보호추진위원회 위원 위촉식 (2020.12.16)
 
-<img src="http://alextaehwan.github.io/namhee.github.io/images/20201216.jpg" alt="">
+<img src="http://alextaehwan.github.io/namhee.github.io/images/20201216.jpeg" alt="">
 
 ### 2019 20th EMDR Europe Conference (Krakow, Poland) (2019.06.28 – 30)에서 Udi Oren박사와 동료들과 함께 
 
