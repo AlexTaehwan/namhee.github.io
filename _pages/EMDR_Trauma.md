@@ -11,11 +11,7 @@ header:
 
 <details><summary>CLICK ME</summary>
 <p>
-#### yes, even hidden code blocks!
-
-```python
-print("hello world!")
-```
+yes, even hidden code blocks!
 </p>
 </details>
 
