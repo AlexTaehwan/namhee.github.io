@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 header: 
-  teaser: /images/flower.jpg
+  teaser: /images/bio-photo.jpg
 ---
 
 ### 안녕하세요?
