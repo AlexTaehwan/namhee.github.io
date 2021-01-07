@@ -1,1 +1,12 @@
+---
+layout: archive
+title: "Gallery"
+permalink: /galary/
+author_profile: true
+redirect_from:
+  - /resume
+---
 
+### 2020 EMDR ASIA Board Meeting (Bangkok, Thailand) 참석 (2020.01.06)
+
+![image](/images/20200106.png)
