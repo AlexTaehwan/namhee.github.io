@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 header:
-  overlay_image: flower.png
+  overlay_image: flower.jpg
 ---
 
 ### 안녕하세요?
