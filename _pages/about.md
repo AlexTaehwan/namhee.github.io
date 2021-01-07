@@ -1,5 +1,6 @@
 ---
 permalink: /
+layout: post
 title: "김남희, MD, PhD (Nam Hee Kim, MD, PhD)"
 excerpt: "About me"
 author_profile: true
