@@ -22,7 +22,7 @@ main:
     url: /year-archive/
     
   - title: "진행중인 교육 일정 (Events)"
-    url: /markdown/
+    url: /events/
     
   - title: "참고자료들 (Resources)"
     url: /resources/
