@@ -19,6 +19,7 @@ header:
 <img src="http://alextaehwan.github.io/namhee.github.io/images/20200107.jpg" alt="">
 <figcaption>EMDR Asia Training, Standards & Accreditation (TSA) Committee Member이자 EMDR Asia Trainer’s Trainer로 2020 4th EMDR Asia Conference (Bangkok, Thailand) 후 지도한 EMDR 교육가 수련 참가자 팀원들과 함께 </figcaption>
 
+
 * EMDR Asia의 EMDR 교육가를 양성하는 과정에 지도자로 참여하며 홍콩, 인도, 태국 등 다양한 아시아의 EMDR 치료 전문가들을 수련하는 소중하고 의미 있는 시간이었습니다.
 
 ### 2020 4th EMDR Asia Conference (Bangkok, Thailand)에서 Gary Quinn박사와 동료들과 함께
