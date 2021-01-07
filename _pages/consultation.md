@@ -18,5 +18,5 @@ header:
 
 ### 연락처
  
-* Email : emdrtraumatherapy@gmail.com 
+* email : [emdrtraumatherapy@gmail.com](emdrtraumatherapy@gmail.com) 
 * 자문 신청하기
