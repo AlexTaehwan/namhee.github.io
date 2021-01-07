@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Gallery"
-permalink: /galary/
+permalink: /gallary/
 author_profile: true
 redirect_from:
   - /resume
