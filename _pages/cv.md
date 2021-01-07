@@ -1,12 +1,13 @@
 ---
 layout: archive
-title: "김남희, MD, PhD 소개"
+title: "김남희, MD, PhD"
+exceprt: "소개"
 permalink: /김남희-MD-PhD-소개/
 author_profile: true
 redirect_from:
   - /resume
 header:
-  overlay_image: paper2.jpg
+  overlay_image: paper1.jpg
 ---
 
 ### 임상경력 및 활동
