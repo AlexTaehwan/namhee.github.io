@@ -5,6 +5,8 @@ permalink: /training_workshop/
 author_profile: true
 redirect_from:
   - /resume
+header:
+  overlay_image: paper5.jpg
 ---
 
 ### 국제EMDR협회인증 한국EMDR협회 EMDR치료자 수련 워크샵
