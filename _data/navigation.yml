@@ -28,7 +28,7 @@ main:
     url: /resources/
     
   - title: "갤러리 (Gallery)"
-    url: /galary/
+    url: /gallary/
     
   - title: "연락 (Contact)"
     url: /contact/
