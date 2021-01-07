@@ -5,6 +5,8 @@ permalink: /EMDR_Trauma/
 author_profile: true
 redirect_from:
   - /resume
+header:
+  overlay_image: paper3.jpg
 ---
 
 ### 트라우마로부터의 회복 과정
