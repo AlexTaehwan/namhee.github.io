@@ -5,15 +5,31 @@ permalink: /resources/
 author_profile: true
 redirect_from:
   - /resume
+header:
+  overlay_image: paper10.jpg
 ---
+<p>
+<details>
+<summary><big><b>
+동영상
+</b></big></summary>
+<p>
+<a href="https://youtu.be/t62PAcj_9z4/">코로나 시기 마음 안정시키기 기술</a>
+</p><p>
+  
+<a href="https://youtu.be/mXa59tRbLxQ">암환자의 불안과 두려움</a>
+</p><p>
+
+<a href="https://youtu.be/F47UvmXnKM4">암환자의 스트레스와 우울증</a>
+
+</p>
+</details>
+</p>
+
 
 ### 동영상
 
-[코로나 시기 마음 안정시키기 기술](https://youtu.be/t62PAcj_9z4)
 
-[암환자의 불안과 두려움](https://youtu.be/mXa59tRbLxQ)
-
-[암환자의 스트레스와 우울증](https://youtu.be/F47UvmXnKM4)
 
 ### 연구논문 
 
