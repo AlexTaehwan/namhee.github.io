@@ -10,7 +10,7 @@ main:
     url: /training_workshop/    
 
   - title: "강의 (Lecture & Presentation)"
-    url: /teaching/    
+    url: /lecture_presentation/    
     
   - title: "사례 자문 (Consultation)"
     url: /consultation/
