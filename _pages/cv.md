@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 header:
-  overlay_image: flower.jpg
+  overlay_image: paper2.jpg
 ---
 
 ### 임상경력 및 활동
