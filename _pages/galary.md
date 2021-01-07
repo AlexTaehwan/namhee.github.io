@@ -11,4 +11,4 @@ header:
 
 ### 2020 EMDR ASIA Board Meeting (Bangkok, Thailand) 참석 (2020.01.06)
 
-<img src="alextaehwan.github.io/namhee.github.io/images/20200106.png" alt="">
+<img src="http://alextaehwan.github.io/namhee.github.io/images/20200106.png" alt="">
