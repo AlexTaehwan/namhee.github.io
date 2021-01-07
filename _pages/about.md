@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 image : 
-  background: profile.png
+  background: /images/flower.jpg
 ---
 
 ### 안녕하세요?
