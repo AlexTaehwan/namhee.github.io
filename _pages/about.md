@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-
+```yaml
+image:
+  background: flower.jpg
+```
 
 ### 안녕하세요?
 
