@@ -21,9 +21,9 @@ header:
 
 <p>
 <details>
-<summary><big><b>
+<summary><b>
 진행한 강의 및 발표 
-</b></big></summary>
+</b></summary>
 <p>
 2020 국가트라우마센터 심포지엄 (2020.11.24) 
   <li><b>외상후 스트레스장애(PTSD)의 치료기법과 실제: “복합 트라우마의 자아상태치료(Ego State Therapy) 소개 및 사례” </b></li>
