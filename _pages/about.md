@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 header: 
   overlay_image: /images/flower.jpg
-  teaser: /images/flower.jpg
 ---
 
 ### 안녕하세요?
