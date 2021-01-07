@@ -30,34 +30,34 @@ header:
 </p><p>
 
 “중독의 EMDR 치료 (EMDR Therapy for Addiction)”
-<li><b>2020 국제EMDR협회공인 EMDR 2단계 기본 수련 (Weekend 1) (2020.06.26 - 28) </b></li>
-<li><b>2020 한국EMDR협회 Self-Care Procedure for Coronavirus (SCP-C) 워크샵 (2020.05.15) </b></li>
+<li>2020 국제EMDR협회공인 EMDR 2단계 기본 수련 (Weekend 1) (2020.06.26 - 28) </li>
+<li>2020 한국EMDR협회 Self-Care Procedure for Coronavirus (SCP-C) 워크샵 (2020.05.15)</li>
 </p><p>
 
 “SCP-C & 안정화 기법 & 코로나 19 관련 심리적 고려사항”
-<li><b> 2020 한국EMDR협회 Self-Care Procedure for Coronavirus (SCP-C) 워크샵 (2020.05.06)</b></li>
+<li> 2020 한국EMDR협회 Self-Care Procedure for Coronavirus (SCP-C) 워크샵 (2020.05.06)</li>
 </p><p>
 
 “SCP-C & 코로나 19 상황 EMDR 치료 시 고려사항”
-<li><b>2020 4th EMDR Asia Conference (Bangkok, Thailand) (2020.01.03 - 05)</b></li>
+<li>2020 4th EMDR Asia Conference (Bangkok, Thailand) (2020.01.03 - 05)</li>
 </p><p>
 
 “Training EMDR Asia Trainers” 지도 
-<li><b>2019 국제EMDR협회공인 EMDR 1단계 기본 수련 (Weekend 1) (2019.11.21 - 23)</b></li>
-<li><b>2019 한국EMDR협회 2차 심화 워크샵 (2019.09.29)</b></li>
+<li>2019 국제EMDR협회공인 EMDR 1단계 기본 수련 (Weekend 1) (2019.11.21 - 23)</li>
+<li>2019 한국EMDR협회 2차 심화 워크샵 (2019.09.29)</li>
 
 </p><p>
 
 “최근 외상의 EMDR 치료 (EMDR Therapy for Recent Trauma)”
-<li><b>2019 국제EMDR협회공인 EMDR 1단계 기본 수련 (Weekend 1) (2019.08.15 - 17)</b></li>
-<li><b>2019 2019 한국EMDR협회 1차 심화 워크샵 (2019.06.16)</b></li>
+<li>2019 국제EMDR협회공인 EMDR 1단계 기본 수련 (Weekend 1) (2019.08.15 - 17)</li>
+<li>2019 2019 한국EMDR협회 1차 심화 워크샵 (2019.06.16)</li>
 
 </p><p>
 
 “복합 트라우마의 EMDR 치료: 자아상태치료로 EMDR 치료 효과 높이기 (EMDR Therapy in Patients with Complex Trauma: Empowering EMDR with Ego State Therapy)”
-<li><b>2019 국제EMDR협회공인 EMDR 1단계 기본 수련 (Weekend 1) (2019.04.26 - 28)</b></li>
-<li><b>2019 국제EMDR협회공인 EMDR 2단계 기본 수련 (Weekend 2) (2019.02.28 – 03.02)</b></li>
-<li><b>2019 국제EMDR협회공인 EMDR 1단계 기본 수련 (Weekend 1) (2019.01.18 - 20)</b></li>
+<li>2019 국제EMDR협회공인 EMDR 1단계 기본 수련 (Weekend 1) (2019.04.26 - 28)</li>
+<li>2019 국제EMDR협회공인 EMDR 2단계 기본 수련 (Weekend 2) (2019.02.28 – 03.02)</li>
+<li>2019 국제EMDR협회공인 EMDR 1단계 기본 수련 (Weekend 1) (2019.01.18 - 20)</li>
 
 </p>
 </details>
