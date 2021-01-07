@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "김남희, MD, PhD "
+title: "김남희, MD, PhD 소개"
 permalink: /김남희-MD-PhD-소개/
 author_profile: true
 redirect_from:
