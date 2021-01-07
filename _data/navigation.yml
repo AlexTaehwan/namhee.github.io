@@ -25,10 +25,10 @@ main:
     url: /markdown/
     
   - title: "참고자료들 (Resources)"
-    url: /markdown/
+    url: /resources/
     
   - title: "갤러리 (Gallery)"
-    url: /markdown/
+    url: /galary/
     
   - title: "연락 (Contact)"
-    url: /markdown/
+    url: /contact/
