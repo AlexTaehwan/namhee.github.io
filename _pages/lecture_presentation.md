@@ -17,7 +17,7 @@ header:
 
 ### 연락처
 * email : [emdrtraumatherapy@gmail.com](emdrtraumatherapy@gmail.com)
-* 교육 강의 및 워크샵 신청하기
+* [교육 강의 및 워크샵 신청하기](https://forms.gle/inFLs3dB2h7fkReh8)
 
 <p>
 <details>
