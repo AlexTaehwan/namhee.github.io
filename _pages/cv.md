@@ -5,6 +5,8 @@ permalink: /김남희-MD-PhD-소개/
 author_profile: true
 redirect_from:
   - /resume
+header:
+  overlay_image: flower.jpg
 ---
 
 ### 임상경력 및 활동
