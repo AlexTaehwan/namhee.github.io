@@ -7,12 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 image : 
-  background: flower.jpg
+  background: profile.png
 ---
 
 ```yaml
 image:
-  background: flower.jpg
+  background: profile.png
 ```
 
 ### 안녕하세요?
