@@ -20,11 +20,11 @@ print("hello world!")
 </details>
 
 
-<button type="button" class="collapsible">Open Collapsible</button>
-<div class="content">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-</div>
+<button class="collapsible" id="yaml">Click here for the code.</button>
 
+<div class="content" id="yamldata" markdown="1">
+  CONTENT
+</div>
 
 ### 트라우마로부터의 회복 과정
 
