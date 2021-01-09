@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "김남희, MD, PhD (Nam Hee Kim, MD, PhD)"
+title                    : "김남희, MD, PhD"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : #"한국 EMDR 트라우마 치료 교육센터 (Center for EMDR & Trauma Therapy & Education Korea, CETTEK)"
@@ -81,7 +81,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "김남희"
+  name             : "김남희, MD, PhD"
   avatar           : "profile_namhee.png"
   bio              : "정신건강의학과 전문의, 의학 박사, EMDR Institute Trainer"
   location         : "Suwon, South Korea"
