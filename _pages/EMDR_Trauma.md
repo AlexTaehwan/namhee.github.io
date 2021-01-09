@@ -130,25 +130,23 @@ EMDR 치료에 대한 최근 연구결과에 대한 더 많은 정보는 아래�
 </p>
 
 
-<p></p>
-<p></p>
   
-****참고문헌****
+##### 참고문헌
 
-_김남희. 사고 생존자를 위한 개인재난 심리개입 프로토콜. 2019, 한국트라우마스트레스학회: 서울. (보건복지부 정신건강기술개발사업단 지원 연구)._
+###### _김남희. 사고 생존자를 위한 개인재난 심리개입 프로토콜. 2019, 한국트라우마스트레스학회: 서울. (보건복지부 정신건강기술개발사업단 지원 연구)._
 
-_김남희. 정신심리총서. 나를 괴롭히는 기억으로부터의 자유: 안구운동 민감소실 및 재처리 요법. 근거기반정신심리치료의 이해와 실제. Vol. 2권. 2019: 대한정서인지행동의학회._
+###### _김남희. 정신심리총서. 나를 괴롭히는 기억으로부터의 자유: 안구운동 민감소실 및 재처리 요법. 근거기반정신심리치료의 이해와 실제. Vol. 2권. 2019: 대한정서인지행동의학회._
 
-_김남희 등. 심리치료 가이드라인. 스마일센터 범죄피해자 심리적 후유증에 대한 표준 평가 프로토콜 및 치료 가이드라인 개발 연구. 법무부, 2020_
+###### _김남희 등. 심리치료 가이드라인. 스마일센터 범죄피해자 심리적 후유증에 대한 표준 평가 프로토콜 및 치료 가이드라인 개발 연구. 법무부, 2020_
 
-_Shapiro, F. Eye movement desensitization and reprocessing (EMDR) therapy: Basic principles, protocols, and procedures. Guilford Publications, 2017_
+###### _Shapiro, F. Eye movement desensitization and reprocessing (EMDR) therapy: Basic principles, protocols, and procedures. Guilford Publications, 2017_
 
-_Forgash, C. E., & Copeley, M. E. Healing the heart of trauma and dissociation with EMDR and ego state therapy. Springer Publishing Co, 2008_
+###### _Forgash, C. E., & Copeley, M. E. Healing the heart of trauma and dissociation with EMDR and ego state therapy. Springer Publishing Co, 2008_
 
-_Barabasz, A. Evidence based abreactive ego state therapy for PTSD. American Journal of Clinical Hypnosis. 2013;56(1): 54-65._
+###### _Barabasz, A. Evidence based abreactive ego state therapy for PTSD. American Journal of Clinical Hypnosis. 2013;56(1): 54-65._
 
-_Watkins, J. G., & Watkins, H. H. Ego states: Theory and therapy. New York: WW Norton, 1997_
+###### _Watkins, J. G., & Watkins, H. H. Ego states: Theory and therapy. New York: WW Norton, 1997_
 
-_Steele, K., Boon, S., & van der Hart, O. Treating Trauma-Related Dissociation: A Practical, Integrative Approach (Norton Series on Interpersonal Neurobiology). WW Norton & Company, 2016_
+###### _Steele, K., Boon, S., & van der Hart, O. Treating Trauma-Related Dissociation: A Practical, Integrative Approach (Norton Series on Interpersonal Neurobiology). WW Norton & Company, 2016_
 
-_Van der Hart, O., Nijenhuis, E. R., & Steele, K. The haunted self: Structural dissociation and the treatment of chronic traumatization. WW Norton & Company., 2006_
+###### _Van der Hart, O., Nijenhuis, E. R., & Steele, K. The haunted self: Structural dissociation and the treatment of chronic traumatization. WW Norton & Company., 2006_
