@@ -2,33 +2,24 @@
 main:
   - title: "소개"
     url: /김남희-MD-PhD-소개/
-
+    
   - title: "EMDR & Trauma Therapy"
     url: /EMDR_Trauma/
     
+  - title: "Lecture & Presentation"
+    url: /lecture_presentation/    
+  
+  - title: "Consultation"
+    url: /consultation/
+  
   - title: "Training & Workshop"
     url: /training_workshop/    
 
-  - title: "Lecture & Presentation"
-    url: /lecture_presentation/    
-    
-  - title: "Consultation"
-    url: /consultation/
-        
   - title: "Clinic"
     url: /clinic/
     
   - title: "Blog"
     url: /year-archive/
-    
-  - title: "Events"
-    url: /events/
-    
+  
   - title: "Resources"
     url: /resources/
-    
-  - title: "Gallery"
-    url: /gallary/
-    
-  - title: "Contact"
-    url: /contact/
