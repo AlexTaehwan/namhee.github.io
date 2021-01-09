@@ -15,7 +15,7 @@ header:
 
 트라우마 영향 및 치료의 실제, 다양한 안정화 기법, EMDR 치료, 구조적 해리이론과 자아상태치료를 포함한 복합 트라우마 치료 등 치료자 대상 강의 및 워크샵, 그리고 일반인 대상 스트레스와 트라우마의 이해 및 대처를 돕는 강의 모두 신청 가능합니다. (단, 공인된 EMDR 치료자 자격을 위한 기본수련 워크샵은 한국EMDR협회를 통해 수련일정에 맞춰 신청하셔야 합니다.)  
 
-## [교육 강의 및 워크샵 신청하기](https://forms.gle/inFLs3dB2h7fkReh8)
+### [교육 강의 및 워크샵 신청하기](https://forms.gle/inFLs3dB2h7fkReh8)
 * Email : [emdrtraumatherapy@gmail.com](emdrtraumatherapy@gmail.com)
 
 ## 진행중인 교육 일정
@@ -24,7 +24,9 @@ header:
 <p>
 <details>
 <summary><b>
+  <span style="color:DarkSeaGreen">
 진행한 강의 및 발표 (2019, 2020)
+  </span>
 </b></summary>
 <p>
 2020 국가트라우마센터 심포지엄 (2020.11.24) 
