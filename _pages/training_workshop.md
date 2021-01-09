@@ -9,16 +9,18 @@ header:
   overlay_image: paper5.jpg
 ---
 
-### 국제EMDR협회인증 한국EMDR협회 EMDR치료자 수련 워크샵
+## 국제EMDR협회인증 한국EMDR협회 EMDR치료자 수련 워크샵
 
 국제EMDR협회인증 EMDR치료 교육가 (EMDR Institute Trainer)로서 한국EMDR협회를 통해 국제EMDR협회인증 EMDR 치료자 기본 수련 및 심화 수련을 제공하고, EMDR ASIA협회의 EMDR 교육가(trainer) 양성 과정 지도에 Trainer’s Trainer로 참여하고 있습니다.
 
 
 <p>
 <details>
-<summary><b>
+<summary><big><b>
+  <span style="color:DarkSeaGreen">
 진행한 수련 워크샵
-</b></summary>
+   </span>
+</b></big></summary>
 <p>
 2020 국제EMDR협회공인 EMDR 1단계 기본 수련 (Weekend 1) (2020.11.06 - 08)  
 </p><p>
