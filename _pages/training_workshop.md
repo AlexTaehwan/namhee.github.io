@@ -22,13 +22,17 @@ header:
    </span>
 </b></big></summary>
 <p>
+  <li>
 2020 국제EMDR협회공인 EMDR 1단계 기본 수련 (Weekend 1) (2020.11.06 - 08)  
+  </li>
 </p><p>
-
+<li>
 2020 국제EMDR협회공인 EMDR 1단계 기본 수련 (Weekend 1) (2020.07.17 - 19)
+  </li>
 </p><p>
-
+<li>
 2020 한국EMDR협회 1차 온라인 심화 워크샵 (2020.07.12)
+  </li>
 </p><p>
 
 “중독의 EMDR 치료 (EMDR Therapy for Addiction)”
