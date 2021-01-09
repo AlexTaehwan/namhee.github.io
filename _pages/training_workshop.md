@@ -78,7 +78,7 @@ header:
   <p>
 <li>2019 2019 한국EMDR협회 1차 심화 워크샵 (2019.06.16)</li>
   <span style="padding-left:45px">
-“복합 트라우마의 EMDR 치료: 자아상태치료로 EMDR 치료 효과 높이기 (EMDR Therapy in Patients with Complex Trauma: Empowering EMDR with Ego State Therapy)”
+“복합 트라우마의 EMDR 치료: 자아상태치료로 EMDR 치료 효과 높이기”
   </span>
  </p>
  <p>
