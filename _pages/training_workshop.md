@@ -43,16 +43,19 @@ header:
   </p>
  
 <li>2020 한국EMDR협회 Self-Care Procedure for Coronavirus (SCP-C) 워크샵 (2020.05.15)</li>
-
+<p>
 <span style="padding-left:45px">
 “SCP-C & 안정화 기법 & 코로나 19 관련 심리적 고려사항”
 </span>
+</p>
 <li> 2020 한국EMDR협회 Self-Care Procedure for Coronavirus (SCP-C) 워크샵 (2020.05.06)</li>
+<span style="padding-left:45px">
+“SCP-C & 코로나 19 상황 EMDR 치료 시 고려사항”
+</span>
+
+<li>2020 4th EMDR Asia Conference (Bangkok, Thailand) (2020.01.03 - 05)</li>
 
 <p>
-“SCP-C & 코로나 19 상황 EMDR 치료 시 고려사항”
-<li>2020 4th EMDR Asia Conference (Bangkok, Thailand) (2020.01.03 - 05)</li>
-</p><p>
 
 “Training EMDR Asia Trainers” 지도 
 <li>2019 국제EMDR협회공인 EMDR 1단계 기본 수련 (Weekend 1) (2019.11.21 - 23)</li>
