@@ -33,11 +33,14 @@ header:
 <li>
 2020 한국EMDR협회 1차 온라인 심화 워크샵 (2020.07.12)
   </li>
-</p><p>
+</p>
   <span style="padding-left:20px">
 “중독의 EMDR 치료 (EMDR Therapy for Addiction)”
   </span>
+<p>
 <li>2020 국제EMDR협회공인 EMDR 2단계 기본 수련 (Weekend 1) (2020.06.26 - 28) </li>
+  </p>
+  <p>
 <li>2020 한국EMDR협회 Self-Care Procedure for Coronavirus (SCP-C) 워크샵 (2020.05.15)</li>
 </p><p>
 
