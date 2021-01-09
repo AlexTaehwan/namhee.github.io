@@ -1,34 +1,34 @@
 # main links links
 main:
-  - title: "김남희, MD, PhD 소개"
+  - title: "김남희 소개"
     url: /김남희-MD-PhD-소개/
 
-  - title: "EMDR 및 트라우마 전문치료 소개 (EMDR & Trauma Therapy)"
+  - title: "EMDR & Trauma Therapy"
     url: /EMDR_Trauma/
     
-  - title: "수련 워크샵 (Training & Workshop)"
+  - title: "Training & Workshop"
     url: /training_workshop/    
 
-  - title: "강의 (Lecture & Presentation)"
+  - title: "Lecture & Presentation"
     url: /lecture_presentation/    
     
-  - title: "사례 자문 (Consultation)"
+  - title: "Consultation"
     url: /consultation/
         
-  - title: "진료 및 상담 (Clinic)"
+  - title: "Clinic"
     url: /clinic/
     
-  - title: "치료자 토크 (Blog)"
+  - title: "Blog"
     url: /year-archive/
     
-  - title: "진행중인 교육 일정 (Events)"
+  - title: "Events"
     url: /events/
     
-  - title: "참고자료들 (Resources)"
+  - title: "Resources"
     url: /resources/
     
-  - title: "갤러리 (Gallery)"
+  - title: "Gallery"
     url: /gallary/
     
-  - title: "연락 (Contact)"
+  - title: "Contact"
     url: /contact/
