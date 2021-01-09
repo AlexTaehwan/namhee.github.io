@@ -55,16 +55,21 @@ header:
 </span>
 </p>
 
+<p>
 <li>2020 4th EMDR Asia Conference (Bangkok, Thailand) (2020.01.03 - 05)</li>
+<span style="padding-left:45px">
+“Training EMDR Asia Trainers” 지도 
+  </span>
+</p>
 
 <p>
-
-“Training EMDR Asia Trainers” 지도 
 <li>2019 국제EMDR협회공인 EMDR 1단계 기본 수련 (Weekend 1) (2019.11.21 - 23)</li>
+  </p>
+  <p>
 <li>2019 한국EMDR협회 2차 심화 워크샵 (2019.09.29)</li>
+</p>
 
-</p><p>
-
+<p>
 “최근 외상의 EMDR 치료 (EMDR Therapy for Recent Trauma)”
 <li>2019 국제EMDR협회공인 EMDR 1단계 기본 수련 (Weekend 1) (2019.08.15 - 17)</li>
 <li>2019 2019 한국EMDR협회 1차 심화 워크샵 (2019.06.16)</li>
