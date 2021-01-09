@@ -28,7 +28,9 @@ header:
 <p>
 <details>
 <summary><big><b>
+  <span style="color:DarkSeaGreen">
 심리교육 및 다양한 안정화 기법과 자원강화
+  </span>
 </b></big></summary>
 <p>
 트라우마 치료의 가장 기본인 심리교육을 제공하고, 내담자에게 적합한 스스로 안정할 수 있게 돕는 기본적인 안정화 기법 2-3가지를 훈련합니다. 이는 평소에 트라우마 관련 자극 시에도, 트라우마 기억을 다루는 심리치료 전과 후에도 적절한 각성 수준을 유지하며 대처할 수 있도록 돕습니다.  
@@ -46,7 +48,9 @@ header:
 <p>
 <details>
 <summary><big><b>
+  <span style="color:DarkSeaGreen">
 안구운동 민감소실 및 재처리 요법 (Eye Movement Desensitization and Reprocessing, EMDR)
+  </span>
 </b></big></summary>
 <p>
 EMDR 치료는 1987년 임상심리학자 Francine Shapiro 박사가 발견해 발전해온 심리치료로, 30여년이 지난 현재 30개 이상의 무작위 대조 연구 결과 등을 통해 외상후 스트레스 장애(PTSD)의 근거 기반 효과적인 심리치료로 잘 알려져 있습니다. 현재는 과거의 트라우마나 부정적 경험과 관련된 기억을 처리하며 치료 적용범위를 공포증, 공황장애, 범불안장애, 수행불안, 우울증, 애착장애, 만성적 애도반응, 만성통증, 섭식장애, 분노조절장애 및 복합 트라우마와 해리장애까지 확장하여 발전된 심리치료입니다.
@@ -72,7 +76,9 @@ EMDR 치료에 대한 최근 연구결과에 대한 더 많은 정보는 아래�
 <p>
 <details>
 <summary><big><b>
+  <span style="color:DarkSeaGreen">
 복합 트라우마의 치료 
+  </span>
 </b></big></summary>
 <p>
 해리증상을 흔히 동반하는 복합 트라우마의 치료는 해리된 인격의 파트들과 자기감(sense of self)과 작업하는 면에서, 트라우마 기억이 나타나거나 회피 될 때 내담자의 내면 시스템과 파트 간의 관계의 역동을 이해하며 접근해야 하는 면에서, 일반적인 정신치료를 넘어선 특별한 이해와 작업을 필요로 합니다. 
@@ -89,7 +95,9 @@ EMDR 치료에 대한 최근 연구결과에 대한 더 많은 정보는 아래�
 <p>
 <details>
 <summary><big><b>
+  <span style="color:DarkSeaGreen">
 1. 자아상태치료 (Ego State Therapy, EST)
+  </span>
 </b></big></summary>
 <p>
 자아상태치료는 John G. Watkins 교수와 그의 아내이자 정신치료자인 Helen H. Watkins 부부가 개발한 치료로, 개인의 인격이 다양한 파트들인 자아상태들(ego states)로 구성되며, 각 자아상태는 외부세계로부터의 인상(impression)에 대한 반응이 반복되면서 공통된 원칙으로 엮인 행동과 경험의 조직화된 신경계로서 정의합니다. 정상적인 자아상태는 서로 협력하여 전체로서의 개인이 상황에 따라 가장 잘 대처하고 기능하도록 돕습니다. 그러나 트라우마의 영향으로 자아상태들이 해리되게 되고 해리된 자아상태 간에는 협력이 어려워지고 내적 갈등이 심해지며 다양한 문제를 갖게 될 수 있습니다.
@@ -102,7 +110,9 @@ EMDR 치료에 대한 최근 연구결과에 대한 더 많은 정보는 아래�
 <p>
 <details>
 <summary><big><b>
+  <span style="color:DarkSeaGreen">
 2. 인격의 구조적 해리이론 (Theory of the Structural Dissociation of the Personality, TSDP)
+  </span>
 </b></big></summary>
 <p>
 트라우마 정신치료자인 Onno van der Hart 교수 등이 Pierre Janet의 전통적인 정신치료의 해리 이론에 현대의 정신외상학과 신경생물학을 통합한 치료기법으로, 해리를 모든 외상후 장애 스펙트럼의 기본 기전으로 이해합니다. 
@@ -120,9 +130,10 @@ EMDR 치료에 대한 최근 연구결과에 대한 더 많은 정보는 아래�
 </p>
 
 
-
-
-**참고문헌**
+<p></p>
+<p></p>
+  
+****참고문헌****
 
 _김남희. 사고 생존자를 위한 개인재난 심리개입 프로토콜. 2019, 한국트라우마스트레스학회: 서울. (보건복지부 정신건강기술개발사업단 지원 연구)._
 
