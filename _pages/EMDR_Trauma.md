@@ -14,7 +14,7 @@ header:
 <p>
 <details>
 <summary><big><b>
-<span style="color:blue">
+<span style="color:DarkSeaGreen">
 트라우마로부터의 회복 과정
 </span>
 
