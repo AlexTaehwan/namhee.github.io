@@ -18,8 +18,5 @@ header:
 ### [자문 신청하기](https://forms.gle/MGPPTiH5Kz6y9NKJ8)
 (Email: [emdrtraumatherapy@gmail.com](emdrtraumatherapy@gmail.com))
 
-* [EMDR 자문 사례 요약양식-hwp](http://alextaehwan.github.io/namhee.github.io/files/trauma.pdf)
-
-{{ reference }} [<a href="/files/EMDR.hwp">PDF</a>]
-
-<a href="/files/EMDR.hwp" download="EMDR.hwp">Download </a>
+<li><a href="/files/EMDR.hwp" download="EMDR.hwp">EMDR 자문 사례 요약양식-hwp </a></li>
+<li><a href="/files/EMDR.docx" download="EMDR.docx">EMDR 자문 사례 요약양식-word </a></li>
