@@ -21,3 +21,5 @@ header:
 * [EMDR 자문 사례 요약양식-hwp](http://alextaehwan.github.io/namhee.github.io/files/trauma.pdf)
 
 {{ reference }} [<a href="/files/EMDR.hwp">PDF</a>]
+
+<a href="/files/EMDR.hwp" download="EMDR.hwp">Download </a>
