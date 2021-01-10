@@ -34,7 +34,7 @@ header:
 
 <p>
 <details>
-<summary><b><big>
+<summary><big><b>
 <span style="color:DarkSeaGreen">
 진행한 강의 및 발표 (2019, 2020)
 </span>
