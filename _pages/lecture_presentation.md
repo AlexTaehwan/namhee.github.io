@@ -16,18 +16,29 @@ header:
 트라우마 영향 및 치료의 실제, 다양한 안정화 기법, EMDR 치료, 구조적 해리이론과 자아상태치료를 포함한 복합 트라우마 치료 등 치료자 대상 강의 및 워크샵, 그리고 일반인 대상 스트레스와 트라우마의 이해 및 대처를 돕는 강의 모두 신청 가능합니다. (단, 공인된 EMDR 치료자 자격을 위한 기본수련 워크샵은 한국EMDR협회를 통해 수련일정에 맞춰 신청하셔야 합니다.)  
 
 ### [교육 강의 및 워크샵 신청하기](https://forms.gle/inFLs3dB2h7fkReh8)
-Email : [emdrtraumatherapy@gmail.com](emdrtraumatherapy@gmail.com)
-
-## 진행중인 교육 일정
-* [한국복합트라우마치료 연구회 “복합 트라우마와 해리에 대한 이해와 치료” 세미나](http://alextaehwan.github.io/namhee.github.io/files/trauma.pdf)
+(Email: [emdrtraumatherapy@gmail.com](emdrtraumatherapy@gmail.com))
 
 <p>
 <details>
-<summary><b>
+<summary><big><b>
+<span style="color:DarkSeaGreen">
+진행중인 교육 일정
+</span>
+</b></big></summary>
+  
+<p><li>
+  <a href="http://alextaehwan.github.io/namhee.github.io/files/trauma.pdf">한국복합트라우마치료 연구회 “복합 트라우마와 해리에 대한 이해와 치료” 세미나</a>
+  </li></p>
+</details>
+</p>
+
+<p>
+<details>
+<summary><b><big>
   <span style="color:DarkSeaGreen">
 진행한 강의 및 발표 (2019, 2020)
   </span>
-</b></summary>
+  </b></big></summary>
 <p>
 2020 국가트라우마센터 심포지엄 (2020.11.24) 
   <li><b>외상후 스트레스장애(PTSD)의 치료기법과 실제: “복합 트라우마의 자아상태치료(Ego State Therapy) 소개 및 사례” </b></li>
@@ -45,7 +56,7 @@ Email : [emdrtraumatherapy@gmail.com](emdrtraumatherapy@gmail.com)
 </p><p>
 
 2020 코로나 블루 극복을 위한 추석맞이 서울시민 상담 대잔치 (2020.09.18)
-<li><b>“코로나 시기 마음 안정시키기 기술” (youtube link https://youtu.be/t62PAcj_9z4 )</b></li>
+<li><b>“코로나 시기 마음 안정시키기 기술” (youtube link: https://youtu.be/t62PAcj_9z4 )</b></li>
 </p><p>
 
 2020 서울특별시성북강북교육지원청 학교통합지원센터 전문상담인력 교육 (2020.09.09) 
