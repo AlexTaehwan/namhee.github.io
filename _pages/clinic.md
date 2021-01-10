@@ -8,6 +8,7 @@ redirect_from:
 header:
   overlay_image: paper7.jpg
 ---
+<img src="http://alextaehwan.github.io/namhee.github.io/images/logo.jpg" alt="">
 
 안산시 단원구에 위치한 마음토닥정신건강의학과 원장으로 트라우마 전문 심리치료 및 진료를 하고 있습니다. 
 
