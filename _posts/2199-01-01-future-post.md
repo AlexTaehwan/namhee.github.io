@@ -1,10 +1,8 @@
 ---
-title: 'Future Blog Post'
-date: 2199-01-01
-permalink: /posts/2012/08/blog-post-4/
+title: '블로그 소개글'
+date: 2021-01-10
+permalink: /posts/2021/01/blog-post-1/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - 블로그
 ---
-블로그 예시
+이곳은 트라우마 치료 관련 경험이나 배움을 통해 느끼고 깨닫게 된 의미있는 단상들을 나누기 위한 공간입니다.
