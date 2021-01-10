@@ -11,7 +11,9 @@ header:
 <p>
 <details>
 <summary><big><b>
+  <span style="color:DarkSeaGreen">
 동영상
+  </span>
 </b></big></summary>
 <p>
 <a href="https://youtu.be/t62PAcj_9z4/">코로나 시기 마음 안정시키기 기술</a>
@@ -29,7 +31,9 @@ header:
 <p>
 <details>
 <summary><big><b>
+  <span style="color:DarkSeaGreen">
 연구 논문
+  </span>
 </b></big></summary>
 <p>
 Jung WH, Kim NH. Hippocampal Functional Connectivity Mediates the Impact of Acceptance on Posttraumatic Stress Symptom Severity. Front Psychiatry. 2020;11: 753.
@@ -100,7 +104,9 @@ Kim NH, Chung YK. Reduced Regional Cerebral Blood Flow in Patients with Traumati
 <p>
 <details>
 <summary><big><b>
+  <span style="color:DarkSeaGreen">
 저서 및 역서
+  </span>
 </b></big></summary>
 <p>
 김남희. 정신심리총서. 나를 괴롭히는 기억으로부터의 자유: 안구운동 민감소실 및 재처리 요법. 근거기반정신심리치료의 이해와 실제. Vol. 2권. 2019: 대한정서인지행동의학회.
