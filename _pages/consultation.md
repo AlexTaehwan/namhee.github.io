@@ -18,4 +18,4 @@ header:
 ### [자문 신청하기](https://forms.gle/MGPPTiH5Kz6y9NKJ8)
 (Email: [emdrtraumatherapy@gmail.com](emdrtraumatherapy@gmail.com))
 
-* [EMDR 자문 사례 요약양식-hwp](http://alextaehwan.github.io/namhee.github.io/files/EMDR.hwp)
+* [EMDR 자문 사례 요약양식-hwp](http://alextaehwan.github.io/namhee.github.io/files/*)
