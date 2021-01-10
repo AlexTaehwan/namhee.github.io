@@ -19,3 +19,5 @@ header:
 (Email: [emdrtraumatherapy@gmail.com](emdrtraumatherapy@gmail.com))
 
 * [EMDR 자문 사례 요약양식-hwp](http://alextaehwan.github.io/namhee.github.io/files/trauma.pdf)
+
+{{ reference }} [<a href="{{EMDR.hwp}}">PDF</a>]
